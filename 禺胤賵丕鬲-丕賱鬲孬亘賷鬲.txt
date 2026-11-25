@@ -1,0 +1,9 @@
+تثبيت البرنامج على الموبايل (من الموبايل بس)
+1. افتح الزيب بتاع الملفات وفك الضغط (من تطبيق Files بتاع جوجل: اضغط على الملف > استخراج). هتلاقي 5 ملفات.
+2. اعمل حساب مجاني على github.com بإسمك.
+3. اعمل Repository جديد: اسمه egg، واختار Public.
+4. جوه الـ Repository دوس Add file > Upload files، وارفع الـ 5 ملفات مع بعض (index.html و manifest.webmanifest و sw.js و icon-192.png و icon-512.png) ودوس Commit changes.
+5. روح Settings > Pages، واختار Deploy from a branch، الفرع main والمجلد root، وسيف.
+6. استنى دقيقة، هيظهرلك العنوان: https://اسمك.github.io/egg/
+7. افتح العنوان في كروم، دوس القايمة (٣ نقط) > Install app (تثبيت التطبيق) أو Add to Home screen.
+8. هتلاقي أيقونة طازج يوم بيوم على الشاشة، وبتفتح زي أي تطبيق وتشتغل من غير نت.
